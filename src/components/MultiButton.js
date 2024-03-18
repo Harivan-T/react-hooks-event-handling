@@ -11,6 +11,7 @@ function MultiButton() {
       <button onClick={handleClick}>Button 2</button>
       <button onClick={handleClick}>Button 3</button>
     </div>
+
   );
 }
 
